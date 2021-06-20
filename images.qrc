@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bkimage">
+        <file>resource/background/bk_login.jpg</file>
+    </qresource>
+</RCC>
